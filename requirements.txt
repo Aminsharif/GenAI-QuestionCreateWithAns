@@ -13,4 +13,6 @@ PyPDF2
 faiss-cpu
 python-dotenv
 ipykernel
--e .
+langchain_groq
+langchain_huggingface
+# -e .

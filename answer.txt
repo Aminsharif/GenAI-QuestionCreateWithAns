@@ -1,0 +1,42 @@
+Question:1. What is the main goal of the Sustainable Development Goals (SDGs) mentioned in the text?
+Question:The main goal of the Sustainable Development Goals (SDGs) mentioned in the text is to end extreme poverty in all forms by 2030.
+...............................
+
+Question:2. How has the international community made progress in reducing extreme poverty in the past 15 years?
+Question:In the past 15 years, the international community has made progress in reducing extreme poverty by cutting it in half.
+...............................
+
+Question:3. What are some of the key areas of focus for achieving the goal of ending hunger and promoting sustainable agriculture?
+Question:Some key areas of focus for achieving the goal of ending hunger and promoting sustainable agriculture include promoting sustainable agriculture practices, supporting small farmers, ensuring food security, improving nutrition, and creating systems that provide access to sufficient and nutritious food for everyone.
+...............................
+
+Question:4. How has progress been made in improving access to education globally, and what are the challenges that still exist?
+Question:Progress has been made in improving access to education globally since 2000. The total enrollment rate in developing regions has reached 91%, which is a significant achievement. More girls are in school compared to 2000, and most regions have reached gender parity in primary education. However, challenges still exist, such as poverty, armed conflict, and emergencies keeping many children out of school. Children from the poorest households are four times more likely to be out of school than those from the richest households. Additionally, achieving universal primary and secondary education, affordable vocational training, and access to higher education remains a goal to be achieved.
+...............................
+
+Question:5. What are some of the key issues related to gender equality and empowerment of women and girls mentioned in the text?
+Question:Some key issues related to gender equality and empowerment of women and girls mentioned in the text include gross inequalities in work and wages, unpaid "women's work" such as child care and domestic work, and discrimination in public decision-making. The text also highlights the progress made in increasing the percentage of women getting paid for their work and achieving gender parity in primary education in most regions.
+...............................
+
+Question:6. Why is ensuring access to clean drinking water and sanitation important, and what are the challenges in achieving this goal?
+Question:Ensuring access to clean drinking water and sanitation is important because it is a basic human right and essential for health, well-being, and overall quality of life. Lack of access to clean water can lead to waterborne diseases, malnutrition, and even death. Sanitation is crucial for preventing the spread of diseases and maintaining hygiene.
+
+Challenges in achieving this goal include water scarcity, especially in developing regions, where more than 40% of people are affected. Climate change is exacerbating this issue, leading to projected increases in water scarcity. Additionally, lack of infrastructure, pollution, and inadequate sanitation facilities are barriers to ensuring universal access to clean drinking water and sanitation.
+...............................
+
+Question:7. How has access to electricity improved globally, and what are the challenges in ensuring sustainable and modern energy for all?
+Question:Access to electricity globally has improved significantly between 1990 and 2010, with 1.7 billion more people gaining access during that time. This progress is commendable, but as the world's population continues to grow, more people will require affordable energy for various purposes. The challenge lies in ensuring that this energy is sustainable and modern, as the current reliance on fossil fuels and the resulting greenhouse gas emissions are contributing to climate change. To address this challenge, there is a need to focus on becoming more energy-efficient and investing in clean energy sources like solar and wind power. This transition is crucial to meeting electricity needs while also protecting the environment for future generations.
+...............................
+
+Question:8. What are some of the key strategies mentioned for promoting economic growth, full employment, and decent work for all?
+Question:Some key strategies mentioned for promoting economic growth, full employment, and decent work for all include encouraging entrepreneurship and job creation, eradicating forced labor, slavery, and human trafficking, and ensuring decent work for all women and men by 2030.
+...............................
+
+Question:9. How can technological progress and innovation help address global challenges, as mentioned in the text?
+Question:Technological progress and innovation can help address global challenges by creating jobs, improving energy efficiency, and facilitating sustainable development. For example, investing in innovation and infrastructure can bridge the digital divide, promote sustainable industries, and lead to scientific research advancements. Additionally, advancements in clean energy sources like solar and wind can help meet electricity needs while protecting the environment.
+...............................
+
+Question:10. Why is it important to take urgent action to combat climate change, and what are some of the impacts of climate change mentioned in the text?
+Question:It is important to take urgent action to combat climate change because it has drastic effects on every country in the world. Some of the impacts mentioned in the text include annual losses from natural disasters like earthquakes, tsunamis, tropical cyclones, and flooding amounting to hundreds of billions of dollars. Additionally, climate change leads to the acidification of oceans, loss of marine biodiversity, and the spread of deserts, among other environmental challenges.
+...............................
+
